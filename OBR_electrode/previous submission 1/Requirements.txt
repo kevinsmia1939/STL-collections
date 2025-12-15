@@ -1,0 +1,10 @@
+File name                       Number of pieces
+
+Baffle_0.5cm.stl                1
+Baffle_2.5cm.stl                2
+BCC-1.25mm_2.5cm.stl            1
+BCC-1.67mm_2.5cm.stl            1
+BCC-1.67mm+Baffle_0.5cm.stl     1
+BCC-1.67mm+Baffle_2.5cm.stl     2
+BCC-2.5mm+Baffle_0.5cm.stl      1
+BCC-2.5mm+Baffle_2.5cm.stl      2
